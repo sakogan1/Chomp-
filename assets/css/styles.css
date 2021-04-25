@@ -3,7 +3,7 @@ font-family: 'Rock Salt', cursive; */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;900&family=Rock+Salt&display=swap');
 
 
-@media (min-width:1px) and (max-width:600px) {
+@media (min-width:1px) and (max-width:374px) {
     
     .chomp{
         font-family: 'Rock Salt', cursive; 
@@ -81,7 +81,6 @@ font-family: 'Rock Salt', cursive; */
     justify-content: center;
     
 }
-
 .group2{
     position: absolute;
     width: 343px;
@@ -90,7 +89,6 @@ font-family: 'Rock Salt', cursive; */
     top: 816px;
     display: flex;
     justify-content: center;
-
 }
 .group3{
     position: absolute;
@@ -142,7 +140,6 @@ font-family: 'Rock Salt', cursive; */
     justify-content: center;
     text-align: center;
 }
-
 #two p{
     position: absolute;
     font-family: 'Nunito', sans-serif;
@@ -162,7 +159,6 @@ font-family: 'Rock Salt', cursive; */
     display: flex;
     align-items: center;
     text-align: center;
-
 }
 #text2 p{
     font-family: 'Nunito', sans-serif;
@@ -173,7 +169,6 @@ font-family: 'Rock Salt', cursive; */
     display: flex;
     color: #000000;
 }
-
 #three{
     display: flex;
     align-items: center;
@@ -489,7 +484,7 @@ color: #FFFFFF;
 
 
 
-@media(min-width:600px) and (max-width:899px){
+@media(min-width:374px) and (max-width:599px){
     .chomp{
         font-family: 'Rock Salt', cursive; 
         position: absolute;
@@ -988,7 +983,7 @@ color: #FFFFFF;
 
 
 
-@media(min-width:900px) and (max-width:1199px){
+@media(min-width:600px) and (max-width:899px){
     .chomp{
         font-family: 'Rock Salt', cursive; 
         position: absolute;
@@ -1526,7 +1521,7 @@ color: #FFFFFF;
 
 
 
-@media (min-width:900px) and (width:1200px){
+@media (min-width:900px) {
     .chomp{
         font-family: 'Rock Salt', cursive; 
         position: absolute;
