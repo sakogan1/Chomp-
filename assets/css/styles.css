@@ -1,0 +1,2050 @@
+/* font-family: 'Nunito', sans-serif;
+font-family: 'Rock Salt', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;900&family=Rock+Salt&display=swap');
+
+
+@media (min-width:1px) and (max-width:600px) {
+    
+    .chomp{
+        font-family: 'Rock Salt', cursive; 
+        position: absolute;
+        width: 70px;
+        height: 64px;
+        left: 153px;
+        top:16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .chomp h1{
+        font-size: 16px;
+        line-height: 38px;
+    }
+    .bG{
+        width: 375px;
+        height:560px;
+        background-image: url("../img/dog_catching_snack.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .sideText{
+        position: absolute;
+        width: 163px;
+        height: 64px;
+        left:170px;
+        top: 96px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+    }
+.sideText h2{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    color:#DF8480;
+}
+.Rectangle1{
+    position: absolute;
+    width: 375px;
+    height: 80px;
+    left:0px;
+    top:560px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #DF8480;
+}
+.Rectangle1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle1 div p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.group1{
+    position: absolute;
+    width: 343px;
+    height: 144px;
+    left: 16px;
+    top: 656px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.group2{
+    position: absolute;
+    width: 343px;
+    height: 144px;
+    left: 16px;
+    top: 816px;
+    display: flex;
+    justify-content: center;
+
+}
+.group3{
+    position: absolute;
+    width: 343px;
+    height: 144px;
+    left: 16px;
+    top: 1056px;
+}
+#one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#one p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text1{
+    position: absolute;
+    width: 343px;
+    height: 64px;
+    left: 16px;
+    top: 180px;
+    display: flex;
+    align-items: center;
+
+}
+#text1 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+#two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#two p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text2{
+    position: absolute;
+    width: 343px;
+    height:64px;
+    left:16px;
+    top:180px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+#text2 p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    color: #000000;
+}
+
+#three{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#three p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text3{
+    position: absolute;
+    width: 343px;
+    height: 64px;
+    left: 16px;
+    top: 80px;
+    display: flex;
+    align-items: center;
+
+}
+#text3 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle2{
+    position: absolute;
+    width: 375px;
+    height: 80px;
+    left:0px;
+    top:1260px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #DF8480;
+}
+.Rectangle2 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle2 div p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.Rectangle3{
+    position: absolute;
+    width: 375px;
+    height: 141px;
+    left: 0px;
+    top: 1340px;
+    background-image: url("../img/dog_eating_cookies.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.mealPicture{
+    position: absolute;
+    width: 186px;
+    height: 186px;
+    left: 95px;
+    top: 1523px;
+    background: url("../img/meal.jpg");
+}
+#locally{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -70px;
+    top: -10px;
+}
+#locally p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#longText{
+    position: absolute;
+    width: 343px;
+    height: 144px;
+    left: 16px;
+    top: 1716px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#longText p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:400;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#org{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -30px;
+    top: 150px;
+}
+
+#org p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+#deli{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 150px;
+    top: 70px;
+}
+#deli p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle4{
+    position: absolute;
+    width: 375px;
+    height: 462px;
+    left: 0px;
+    top: 1878px;
+    background-color: #242424;
+}
+#title{
+    position: absolute;
+    width: 343px;
+    height: 62px;
+    left: 16px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+color: #FFFFFF;
+}
+#Rectangle5{
+    position: absolute;
+    width: 341px;
+    height: 64px;
+    left: 18px;
+    top: 86px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 74px;
+}
+#Rectangle5 div{
+    width: 100vw;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle5 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7B7B7B;
+    text-align: center;
+}
+#Rectangle6{
+    position: absolute;
+    width: 341px;
+    height: 64px;
+    left: 18px;
+    top: 176px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #DF8480;;
+    border-radius: 74px;
+}
+#Rectangle6 div{
+    width: 100%;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle6 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#social{
+    position: absolute;
+    bottom: 0.51%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+#faceBook img{
+   width: 42px;
+   height: 42.78px;
+}
+#instagram img{
+    width: 42px;
+    height:42px;
+
+}
+#twitter{
+    width: 42px;
+    height: 42px;
+}
+#copyR{
+    position: absolute;
+    width: 158px;
+    height: 60px;
+    left: 109px;
+    top: 2280px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End of 375px */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:600px) and (max-width:899px){
+    .chomp{
+        font-family: 'Rock Salt', cursive; 
+        position: absolute;
+        width: 70px;
+        height: 64px;
+        left: 244px;
+        top:16px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .chomp h1{
+        line-height: 38px;
+        font-weight:400;
+        font-size: 24px;
+        line-height: 57px;
+        
+    }
+    .bG{
+        width: 600px;
+        height:560px;
+        background-image: url("../img/dog_catching_snack.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    .sideText{
+        position: absolute;
+        width: 272px;
+        height: 64px;
+        right: 16px;
+        top: 96px;
+        left: 308px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+    }
+.sideText h2{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 33px;
+    color:#DF8480;
+}
+.Rectangle1{
+    position: absolute;
+    width: 600px;
+    height: 80px;
+    left:0px;
+    top:560px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #DF8480;
+}
+.Rectangle1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle1 div p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.group1{
+    position: absolute;
+    width: 130px;
+    height: 144px;
+    left: 16px;
+    top: 656px;
+    display: flex;
+    justify-content: center;
+}
+#one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#one p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text1{
+    position: absolute;
+    width: 422px;
+    height: 144px;
+    left: 142px;
+    top: 50px;
+    display: flex;
+    align-items: center;
+
+}
+#text1 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.group2{
+    position: absolute;
+    width: 130px;
+    height: 144px;
+    left: 16px;
+    top: 816px;
+    display: flex;
+    justify-content: center;
+}
+
+#two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#two p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text2{
+    position: absolute;
+    width: 422px;
+    height:144px;
+    left:142px;
+    top:50px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+#text2 p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    color: #000000;
+}
+.group3{
+    position: absolute;
+    width: 130px;
+    height: 144px;
+    left: 16px;
+    top: 1056px;
+}
+#three{
+    display: flex;
+    
+    justify-content: center;
+    text-align: left;
+}
+#three p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: left;
+    color: #DF8480;
+}
+#text3{
+    position: absolute;
+    width: 422px;
+    height:144px;
+    left:142px;
+    top:-20px;
+    display: flex;
+    align-items: center;
+
+}
+#text3 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: left;
+    color: #000000;
+}
+.Rectangle2{
+    position: absolute;
+    width: 602px;
+    height: 80px;
+    left:-2px;
+    top:1260px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #DF8480;
+}
+.Rectangle2 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle2 div p{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.Rectangle3{
+    position: absolute;
+    width: 292px;
+    height: 224px;
+    left: 0px;
+    top: 1340px;
+    background-image: url("../img/dog_eating_cookies.jpg");
+    background-size: cover;
+    background-position: center;
+}
+#gridWrap{
+    display: flex;
+   flex-direction: column;
+}
+.mealPicture{
+    position: absolute;
+    width: 165px;
+    height: 186px;
+    left: 371px;
+    top: 1363px;
+    background: url("../img/meal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#locally{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -70px;
+    top: -10px;
+}
+#locally p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#longText{
+    position: absolute;
+    width: 568px;
+    height: 144px;
+    left: 16px;
+    top: 1557px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#longText p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:400;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#org{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -30px;
+    top: 150px;
+}
+
+#org p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+#deli{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 130px;
+    top: 70px;
+}
+#deli p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle4{
+    position: absolute;
+    width: 600px;
+    height: 378px;
+    left: 0px;
+    top: 1703px;
+    background-color: #242424;
+   
+}
+#title{
+    position: absolute;
+    width: 548px;
+    height: 62px;
+    left: 96px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#Rectangle5{
+    position: absolute;
+    width: 376.8px;
+    height: 64px;
+    left: 113.2px;
+    top: 86px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 74px;
+}
+#Rectangle5 div{
+    width: 100vw;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle5 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7B7B7B;
+    text-align: center;
+}
+#Rectangle6{
+    position: absolute;
+    width: 380px;
+    height: 64px;
+    left: 110px;
+    top: 176px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #DF8480;;
+    border-radius: 74px;
+}
+#Rectangle6 div{
+    width: 100%;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle6 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#social{
+    
+    position: absolute;
+    bottom: -8.49%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+}
+#faceBook img{
+   padding-left: 20px; 
+   width: 42px;
+   height: 42.78px;
+}
+#instagram img{
+    padding-left: 20px;
+    width: 42px;
+    height:42px;
+
+}
+#twitter{
+    padding-left: 20px;
+    width: 42px;
+    height: 42px;
+}
+#copyR{
+    position: absolute;
+    width: 253px;
+    height: 60px;
+    left: 435px;
+    top: 2030px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* End of 600px */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:900px) and (max-width:1199px){
+    .chomp{
+        font-family: 'Rock Salt', cursive; 
+        position: absolute;
+        width: 182px;
+        height: 64px;
+        left: 454px;
+        top:24px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .chomp h1{
+        line-height: 38px;
+        font-weight:400;
+        font-size: 24px;
+        line-height: 57px;
+    }
+    #wrapper{
+        width: 900px;
+        height: 504px;
+        top: 112px;
+    }
+    .bG{
+        position: absolute;
+        height: 504px;
+        left: 0%;
+        right: 0%;
+        top: 112px;
+        background-color: #DF8480;
+    }
+    .photo{
+        position: absolute;
+        width: 438px;
+        height: 504px;
+        left: 504px;
+        top: 112px;
+        background-image: url("../img/dog_catching_snack.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    .sideText{
+        position: absolute;
+        width: 305px;
+        height: 176px;
+        top: 112px;
+        left:178px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+    }
+.sideText h2{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.Rectangle1{
+    position: absolute;
+    width: 414px;
+    height: 64px;
+    left: 315px;
+    top: 616px;
+    display: flex;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.Rectangle1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle1 div p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:#DF8480;
+}
+.group1{
+    position: absolute;
+    width: 195px;
+    height: 152px;
+    left: 133px;
+    top: 728px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+#one{
+    position: absolute;
+    width: 195px;
+    height: 64px;
+    left: -13px;
+    top: -74px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#one p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text1{
+    position: absolute;
+    width: 195px;
+    height: 144px;
+    left: 20px;
+    top: 70px;
+    display: flex;
+    align-items: center;
+
+}
+#text1 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.group2{
+    position: absolute;
+    width: 195px;
+    height: 152px;
+    left: 352px;
+    top: 728px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+#two{
+    position: absolute;
+    width: 196px;
+    height: 64px;
+    left: -20px;
+    top: -74px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#two p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: center;
+    color: #DF8480;
+}
+#text2{
+    position: absolute;
+    position: absolute;
+    width: 186px;
+    height: 64px;
+    left: 20px;
+    top: 110px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+#text2 p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    color: #000000;
+}
+.group3{
+    position: absolute;
+    width: 195px;
+    height: 152px;
+    left: 571px;
+    top: 728px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+#three{
+    position: absolute;
+    width: 195px;
+    height: 64px;
+    left: -20px;
+    top: -42px;
+    display: flex;
+    
+    justify-content: center;
+    text-align: center;
+}
+#three p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    text-align: left;
+    color: #DF8480;
+}
+#text3{
+    position: absolute;
+    width: 187px;
+    height: 64px;
+    left: 22px;
+    top: 70px;
+    display: flex;
+    align-items: center;
+
+}
+#text3 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle2{
+    position: absolute;
+    width: 634px;
+    height: 64px;
+    left: 173px;
+    top: 952px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.Rectangle2 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle2 div p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #DF8480;
+}
+.Rectangle3{
+    position: absolute;
+    width: 195px;
+    height: 232px;
+    left: 24px;
+    top: 1080px;
+    background-image: url("../img/dog_eating_cookies.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.mealPicture{
+    position: absolute;
+    width: 226px;
+    height: 194px;
+    left: 338px;
+    top: 1097px;
+    background: url("../img/meal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#locally{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -60px;
+    top: 0px;
+}
+#locally p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#longText{
+    position: absolute;
+    width: 195px;
+    height: 240px;
+    left: 681px;
+    top: 1081px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #DF8480;
+    border-radius: 8px; 
+}
+#longText p{
+   
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#org{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -20px;
+    top: 140px;
+}
+
+#org p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+#deli{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 170px;
+    top: 70px;
+}
+#deli p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle4{
+    position: absolute;
+    width: 900px;
+    height: 419px;
+    left: 0px;
+    top: 1341px;
+    background: #242424;
+   
+}
+#title{
+    position: absolute;
+    width: 633px;
+    height: 152px;
+    left: 133px;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#Rectangle5{
+    position: absolute;
+    width: 409px;
+    height: 64px;
+    left: 133px;
+    top:176px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 74px;
+}
+#Rectangle5 div{
+    width: 100vw;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle5 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7B7B7B;
+    text-align: center;
+}
+#Rectangle6{
+    position: absolute;
+    width: 196px;
+    height: 64px;
+    left: 571px;
+    top: 176px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #DF8480;;
+    border-radius: 74px;
+}
+#Rectangle6 div{
+    width: 100%;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle6 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#social{
+    
+    position: absolute;
+    bottom: -8.49%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+}
+#faceBook img{
+   padding-left: 20px; 
+   width: 42px;
+   height: 42.78px;
+}
+#instagram img{
+    padding-left: 20px;
+    width: 42px;
+    height:42px;
+
+}
+#twitter{
+    padding-left: 20px;
+    width: 42px;
+    height: 42px;
+}
+#copyR{
+    position: absolute;
+    width: 253px;
+    height: 60px;
+    left: 720px;
+    top: 1710px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+}
+
+
+
+
+
+
+
+
+/* End of 900px */
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:900px) and (width:1200px){
+    .chomp{
+        font-family: 'Rock Salt', cursive; 
+        position: absolute;
+        width: 182px;
+        height: 64px;
+        left: 563px;
+        top: 118px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+    .chomp h1{
+        line-height: 38px;
+        font-weight:400;
+        font-size: 24px;
+        line-height: 57px;
+    }
+    #wrapper{
+        position: absolute;
+        width: 956px;
+        height: 504px;
+        left: 10.17%;
+        right: 10.17%;
+        top: 112px;
+    }
+    .bG{
+        position: absolute;
+        width:466px;
+        height: 504px;
+        left: 3.17%;
+        right: 10.17%;
+        top: 112px;
+        background-color: #DF8480;
+    }
+    .photo{
+        position: absolute;
+        width: 466px;
+        height: 504px;
+        left: calc(50% - 466px/2 + 245px);
+        top: 112px;
+        background-image: url("../img/dog_catching_snack.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    .sideText{
+        position: absolute;
+        width: 305px;
+        height: 176px;
+        right: 640px;
+        top: 223px;
+        display: flex;
+        align-items: center;
+        text-align: right;
+    }
+.sideText h2{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.Rectangle1{
+    position: absolute;
+    width: 564px;
+    height: 64px;   
+    right: 318px;
+    top: 740px;
+    display: flex;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.Rectangle1 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle1 div p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color:#DF8480;
+}
+.group1{
+    position: absolute;
+    width: 269px;
+    height: 240px;
+    left: 148px;
+    top: 830px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+#one{
+    position: absolute;
+    width: 195px;
+    height: 64px;
+    left: 28px;
+    top: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#one p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 98px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #DF8480;
+}
+#text1{
+    position: absolute;
+    width: 269px;
+    height: 63px;
+    left: -28px;
+    top: 105px;
+    display: flex;
+    align-items: center;
+}
+#text1 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+
+.group2{
+    position: absolute;
+    width: 269px;
+    height: 240px;
+    left: 484px;
+    top: 830px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+#two{
+    position: absolute;
+    width: 270px;
+    height: 152px;
+    left: 100px;
+    top: -70px;;
+    display: flex;
+    text-align: center;
+   
+}
+
+#two p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: #DF8480;
+}
+#text2{
+    position: absolute;
+    width: 270px;
+    height: 63px;
+    left: -102px;
+    top: 194px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+}
+#text2 p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight:bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    color: #000000;
+}
+.group3{
+    position: absolute;
+    width: 269px;
+    height: 240px;
+    left: 809px;
+    top: 830px;
+    background: #FFFFFF;
+    border: 1px solid #E4E4E4;
+    box-sizing: border-box;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
+#three{
+    position: absolute;
+    width: 269px;
+    height: 152px;
+    left: -18px;
+    top: -70px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+#three p{
+    position: absolute;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: left;
+    color: #DF8480;
+}
+#text3{
+    position: absolute;
+    width: 253px;
+    height: 57px;
+    left: 25px;
+    top: 200px;
+    display: flex;
+    align-items: center;
+
+}
+#text3 p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle2{
+    position: absolute;
+    width: 753px;
+    height: 64px;
+    left: 220px;
+    top: 1100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    
+}
+.Rectangle2 div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Rectangle2 div p{
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 65px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #DF8480;
+}
+.Rectangle3{
+    position: absolute;
+    width: 268px;
+    height: 240px;
+    left: 124px;
+    top: 1200px;
+    background-image: url("../img/dog_eating_cookies.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.mealPicture{
+    position: absolute;
+    width: 201px;
+    height: 200px;
+    left: 500px;
+    top: 1200px;
+
+    background: url("../img/meal.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#locally{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -60px;
+    top: 0px;
+}
+#locally p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+#longText{
+    position: absolute;
+    width: 232px;
+    height: 240px;
+    left: 847px;
+    top: 1200px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: #DF8480;
+    border-radius: 8px; 
+}
+#longText p{
+   
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#org{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: -20px;
+    top: 140px;
+}
+
+#org p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+#deli{
+    position: absolute;
+    width: 164px;
+    height: 64px;
+    left: 170px;
+    top: 70px;
+}
+#deli p{
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+.Rectangle4{
+    position: absolute;
+    width: 956px;
+    height: 419px;
+    left: 122px;
+    top: 1470px;
+    background: #242424;
+   
+}
+#title{
+    position: absolute;
+    width: 759px;
+    height: 155px;
+    left: 94px;
+    font-family: 'Nunito', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#Rectangle5{
+    position: absolute;
+    width: 366px;
+    height: 64px;
+    left: 198px;
+    top: 183px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 74px;
+}
+#Rectangle5 div{
+    width: 100vw;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle5 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #7B7B7B;
+    text-align: center;
+}
+#Rectangle6{
+    position: absolute;
+    width: 196px;
+    height: 64px;
+    left: 588px;
+    top: 183px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: #DF8480;;
+    border-radius: 74px;
+}
+#Rectangle6 div{
+    width: 100%;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#Rectangle6 p{
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#social{
+    
+    position: absolute;
+    bottom: -8.49%;
+    width: 100%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 50px;
+}
+#faceBook img{
+   padding-left: 20px; 
+   width: 42px;
+   height: 42.78px;
+}
+#instagram img{
+    padding-left: 20px;
+    width: 42px;
+    height:42px;
+
+}
+#twitter{
+    padding-left: 20px;
+    width: 42px;
+    height: 42px;
+}
+#copyR{
+    position: absolute;
+    width: 253px;
+    height: 60px;
+    left: 866px;
+    top: 1840px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+}
+}
+
